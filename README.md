@@ -1,2 +1,2 @@
 # DriveRecTest
-# DriveRecTest
+WebカメラをUbuntu上で練習をするプログラム

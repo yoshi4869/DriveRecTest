@@ -1,6 +1,6 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
-
+//2025/04/17　VirtualBox上でWebカメラが動いた！
 int main() {
     // VideoCaptureの初期化（v4l2を明示的に使用）
     cv::VideoCapture cap(0, cv::CAP_V4L2);  // ここは video0。動かない場合は 1〜3 も試す。
